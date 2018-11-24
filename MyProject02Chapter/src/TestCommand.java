@@ -6,7 +6,6 @@
 public class TestCommand {
 
     // 原来在java里对于函数的注释是下面这样写的
-
     /**
      * 这是程序的入口
      * @param args 参数

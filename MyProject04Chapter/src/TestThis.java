@@ -5,6 +5,7 @@
 
 public class TestThis {
     int a, b, c;
+    static int d;
 
     // 说明一点，如果你自己写了构造函数java程序就不会默认产生构造函数了
     TestThis(int a, int b){
@@ -29,5 +30,7 @@ public class TestThis {
     public static void main(String[] args) {
         TestThis hi = new TestThis(2, 3);
         hi.eat();
+        System.out.println(hi.d);
+        System.out.println(hi); // 这是打印该对象在内存中的地址
     }
 }
