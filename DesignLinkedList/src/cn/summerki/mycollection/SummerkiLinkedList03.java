@@ -1,0 +1,111 @@
+package cn.summerki.mycollection;
+
+/**
+ * 增加remove方法
+ */
+public class SummerkiLinkedList03 {
+    private Node first;
+    private Node last;
+
+    private int size;
+
+
+    public void add(Object obj){
+        Node node = new Node(obj);
+        //[] => ["a"]
+        if(first == null){
+            first = node;
+            last = node;
+        }else{ // ["a","b"] => ["a","b","c"]
+            node.previous = last;
+            node.next = null;
+
+            last.next = node;
+            last = node;
+        }
+        size++;
+    }
+
+    public void remove(int index){
+        Node temp = getNode(index);
+
+        if(temp != null){
+            Node up = temp.previous;
+            Node down = temp.next;
+
+            if(up != null){
+                up.next = down;
+            }
+            if(down != null){
+                down.previous = up;
+            }
+
+            //被删除的元素是第一个元素时
+            if(index == 0){
+                first = down;
+            }
+            //被删除的元素是最后一个元素时
+            if(index == size - 1){
+                last = up;
+            }
+
+            size--;
+        }
+    }
+
+    public String toString(){
+        StringBuilder sb = new StringBuilder();
+        sb.append("[");
+        Node temp = first;
+        while(temp != null){
+//            System.out.println(temp.element);
+            sb.append(temp.element + ",");
+            temp = temp.next;
+        }
+        sb.setCharAt(sb.length() - 1, ']');
+        return sb.toString();
+    }
+
+    public Object get(int index){
+        if(index < 0 || index > size - 1){
+            throw new RuntimeException("索引数字不合法：" + index);
+        }
+
+        Node temp = getNode(index);
+
+        return temp!=null?temp.element:null;
+    }
+
+    public Node getNode(int index){
+        Node temp = null;
+        // 优化：查询时可以从头开始查找也可以从尾部开始查找
+        if(index <= (size >> 1)){
+            temp = first;
+            for(int i = 0; i < index; i++){
+                temp = temp.next;
+            }
+        }else{
+            temp = last;
+            for(int i = size - 1; i > index; i--){
+                temp = temp.previous;
+            }
+        }
+        return temp;
+    }
+
+    public static void main(String[] args) {
+        SummerkiLinkedList03 summerkiLinkedList03 = new SummerkiLinkedList03();
+
+        summerkiLinkedList03.add("a");
+        summerkiLinkedList03.add("b");
+        summerkiLinkedList03.add("c");
+        summerkiLinkedList03.add("d");
+        summerkiLinkedList03.add("e");
+        summerkiLinkedList03.add("f");
+
+        System.out.println(summerkiLinkedList03.get(1));
+        System.out.println(summerkiLinkedList03);
+        summerkiLinkedList03.remove(0);
+        System.out.println(summerkiLinkedList03);
+    }
+}

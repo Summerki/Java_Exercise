@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74683b35-288f-4d4f-826f-e5befe234d7e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../MyProject07Chapter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyProject07Chapter/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="74683b35-288f-4d4f-826f-e5befe234d7e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +13,10 @@
     <session id="1872574046">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,18 +42,14 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/summerki/mycollection/SummerkiArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="51" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
+            <state relative-caret-position="1312">
+              <caret line="51" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc;n#SummerkiArrayList#0;n#SummerkiArrayList#0" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
                 <element signature="e#506#507#0" expanded="true" />
                 <element signature="e#547#548#0" expanded="true" />
               </folding>
@@ -65,16 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/summerki/mycollection/SummerkiArrayList02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="51" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
-              <folding>
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1440">
+              <caret line="51" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -82,14 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/summerki/mycollection/SummerkiArrayList03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="60" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
-              <folding>
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1792">
+              <caret line="60" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -97,12 +78,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/summerki/mycollection/SummerkiArrayList04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="90" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
+            <state relative-caret-position="2784">
+              <caret line="90" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,10 +92,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
               <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding>
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -162,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,6 +159,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -301,27 +276,23 @@
       <option name="presentableId" value="Default" />
       <updated>1543228948206</updated>
       <workItem from="1543228950422" duration="3543000" />
+      <workItem from="1543232728564" duration="186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3543000" />
+    <option name="totallyTimeSpent" value="3729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14483494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14643237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.20507166" />
@@ -329,15 +300,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,14 +325,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/cn/summerki/mycollection/SummerkiArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
+        <state relative-caret-position="1312">
+          <caret line="51" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc;n#SummerkiArrayList#0;n#SummerkiArrayList#0" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
             <element signature="e#506#507#0" expanded="true" />
             <element signature="e#547#548#0" expanded="true" />
           </folding>
@@ -365,40 +337,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/summerki/mycollection/SummerkiArrayList02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
-          <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1440">
+          <caret line="51" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/summerki/mycollection/SummerkiArrayList03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="60" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1792">
+          <caret line="60" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/summerki/mycollection/SummerkiArrayList04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="90" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
+        <state relative-caret-position="2784">
+          <caret line="90" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
           </folding>
         </state>
       </provider>
