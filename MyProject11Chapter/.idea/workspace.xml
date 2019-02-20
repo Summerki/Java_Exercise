@@ -26,7 +26,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/suki/loc/PortTest.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="30">
+=======
+            <state relative-caret-position="42">
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
               <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
@@ -35,8 +39,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/suki/udp/UdpServer.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="346">
               <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+=======
+            <state relative-caret-position="189">
+              <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="65" />
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,7 +56,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/suki/udp/UdpClient.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="180">
+=======
+            <state relative-caret-position="201">
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
               <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -79,7 +92,11 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="45" />
+<<<<<<< HEAD
     <option name="y" value="470" />
+=======
+    <option name="y" value="471" />
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
     <option name="width" value="1690" />
     <option name="height" value="930" />
   </component>
@@ -89,7 +106,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+      <pane id="PackagesPane" />
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,7 +140,11 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+      <pane id="Scope" />
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,17 +226,28 @@
       <updated>1550250633717</updated>
       <workItem from="1550250636210" duration="860000" />
       <workItem from="1550284845830" duration="2903000" />
+<<<<<<< HEAD
       <workItem from="1550555447787" duration="729000" />
+=======
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="4492000" />
+=======
+    <option name="totallyTimeSpent" value="3763000" />
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -258,14 +294,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/suki/loc/PortTest.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="30">
+=======
+        <state relative-caret-position="42">
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
           <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/suki/udp/UdpClient.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="180">
+=======
+        <state relative-caret-position="201">
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
           <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -275,8 +319,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/suki/udp/UdpServer.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="346">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+=======
+        <state relative-caret-position="189">
+          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="65" />
+>>>>>>> d5463b07bb2ec6986fc203889d9df4d49622e75b
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
